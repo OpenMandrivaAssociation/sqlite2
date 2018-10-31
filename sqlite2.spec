@@ -6,7 +6,7 @@
 Summary:	C library that implements an embeddable SQL database engine
 Name:		sqlite2
 Version:	2.8.17
-Release:	11
+Release:	12
 License:	Public Domain
 Group:		System/Libraries
 URL:		http://www.sqlite.org/
