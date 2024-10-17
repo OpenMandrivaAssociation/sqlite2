@@ -9,7 +9,7 @@ Version:	2.8.17
 Release:	13
 License:	Public Domain
 Group:		System/Libraries
-URL:		http://www.sqlite.org/
+URL:		https://www.sqlite.org/
 Source0:	http://www.sqlite.org/sqlite-%{version}.tar.bz2
 Patch0:		sqlite-2.8.14-lib64.patch
 Patch1:		sqlite-64bit-fixes.patch
