@@ -18,6 +18,11 @@ Patch3:		sqlite-CVE-2007-1887_1888.patch
 Patch4:		sqlite-2.8.17-format_not_a_string_literal_and_no_format_arguments.diff
 Provides:	sqlite = 2.8.17-16
 Obsoletes:	sqlite < 2.8.17-16
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	chrpath
 BuildRequires:	ncurses-devel
 BuildRequires:	readline-devel
